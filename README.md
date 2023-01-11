@@ -4,7 +4,7 @@ This repository holds a "[Space Invaders](https://www.youtube.com/watch?v=4KuLsl
 ### Important Things to Note
 The LED "sheet" we used for the project (which can be found in the materials section but is also [linked here](https://www.amazon.com/dp/B075T9RRPM/ref=syn_sd_onsite_mobileweb_40?ie=UTF8&pd_rd_plhdr=t&th=1)) was essentially a strip of lights soldered to look like a sheet. This was probably the most tedious aspect of the project, and it resulted in our code being approx. 800 lines longer than it needed to be due to the various calculations that had to be done for the shooting and win functions.
 
-This is why you see so many if statements, and what makes our code very inefficient. It's also why our enemies move in a snaking pattern as opposed to progressive one like the classic arcade game, as getting the enemies to do that with our solution would require even more tedious calculations. The reason we didn't create these calculations, though they would be relatively easy to create, is simply because we ran out of time before our deadline, and still had other lab work to finish up. 
+This is why you see so many if statements, and is what makes our code very inefficient. It's also why our enemies move in a snaking pattern as opposed to progressive one like the classic arcade game, as getting the enemies to move like that with our solution would've required even more tedious calculations, which we ran out of time to do.
 
 Also important, the only way to really lose right now is by shooting your own buildings. Enemies can't kill you, and their movement causes them to "hop" over some of the building's LEDs meaning they cant fully destroy them.
 
