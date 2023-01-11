@@ -13,7 +13,7 @@ The only thing we would consider doing differently is 3D printing our arcade "ca
 
 If we were given more time it would've been relatively easy to get the enemies moving properly, as I said earlier, as well as add some soundfx and music. Besides that, there are some bugs with the game that we wanted to iron out that we didn't get to, like how enemies "respawn" on rare ocasions instead of dying after being shot, or the fact that the enemies cant technically win. The only way you can lose at this point is by destroying your own buildings, as there is no check to see if the enemies have collided with the player, and because of the way the enemies move, they pass over some of the building's lights without ever touching them, meaning they cant fully destroy the buildings.
 
-### List of Materials Needed for this Project
+## List of Materials Needed for this Project
 
 - [Arduino Uno](https://www.amazon.com/ELEGOO-Board-ATmega328P-ATMEGA16U2-Compliant/dp/B01EWOE0UU/ref=sr_1_1_sspa?keywords=Arduino+Uno&qid=1672277687&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExQVM5SVBGT0M4RzM2JmVuY3J5cHRlZElkPUEwMDYzODE2M0c0UEpCRTVBOUpHRCZlbmNyeXB0ZWRBZElkPUEwNDgzODMzMUlIN1I4WVRSM0w1UiZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
