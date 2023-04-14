@@ -7,7 +7,7 @@
 # Going Retro
 This repository holds a "[Space Invaders](https://www.youtube.com/watch?v=4KuLslq2UvA)" game clone that some teammates and I built using an Arduino UNO system. Between figuring out how to set up our hardware, how we wanted to build our game "cabinet", and actually writing the code, we spent approximately 30 hours over the course of 5 days creating this project. The code is completely our own design (which is obvious if you look at how inefficient it is), and took about 13-15 hours to write alone. We had a lot of fun creating this project for our University class, and we hope that it can help people who want to design something similar create an even better version of our project in the future. A rough video of our final product being tested can be found below:
 
-<iframe src="https://drive.google.com/file/d/1-udaxTVoAN2Swz4PvJlrUdJMfi5eG3Kx/view?usp=sharing/preview" width="640" height="480"></iframe>
+![Uploading GI Gif.gif…]()
 
 ### Important Things to Note
 The LED "sheet" we used for the project (which can be found in the materials section but is also [linked here](https://www.amazon.com/dp/B075T9RRPM/ref=syn_sd_onsite_mobileweb_40?ie=UTF8&pd_rd_plhdr=t&th=1)) was essentially a strip of lights soldered to look like a sheet. This was probably the most tedious aspect of the project, and it resulted in our code being approx. 800 lines longer than it needed to be due to the various calculations that had to be done for the shooting and win functions.
@@ -32,3 +32,5 @@ If we were given more time it would've been relatively easy to get the enemies m
 - [100k Ohm Resistors (3)](https://www.amazon.com/Resistor-Tolerance-Resistors-Limiting-Certificated/dp/B08QRJZ82J/ref=sr_1_1_sspa?crid=1ZKY5UKDIW2WG&keywords=100k%2Bohm%2Bresistor%2Bfor%2Barduino&qid=1672277810&sprefix=100k%2Bohm%2Bresistor%2Bfor%2Barduino%2Caps%2C114&sr=8-1-spons&smid=A14FP9XIRL6C1F&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUFk5NzdPVUpSOVhYJmVuY3J5cHRlZElkPUEwMzA4MzI3MVkyVko2R1o0RjlQUyZlbmNyeXB0ZWRBZElkPUEwNTgwNDY1MVY4OFc1VjFBUUxaVCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1)
 
 - [Push Buttons/Controls of your Choice](https://www.amazon.com/WOWOONE-12x12x7-3-Tactile-Momentary-Assortment/dp/B08JLWTQ3C/ref=sr_1_5?gclid=CjwKCAiA76-dBhByEiwAA0_s9ReTMsGilkb01fAWmniNBsBtaDdA7c_qhwe9SDdyUjS-pAfPsuP9RhoCj4gQAvD_BwE&hvadid=570507105004&hvdev=c&hvlocphy=1014434&hvnetw=g&hvqmt=e&hvrand=2230252812287056236&hvtargid=kwd-19370621756&hydadcr=18005_13462305&keywords=arduino+buttons&qid=1673465983&sr=8-5)
+
+- ~$40-$50 worth of carboard, markers, hot glue, spraypaint, paper
