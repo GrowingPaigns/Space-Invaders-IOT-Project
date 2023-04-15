@@ -1,13 +1,15 @@
 #### Team Members:
     David Desrochers
     Addison Garza
-    Alexander Florez Martinez
+    Alexander Martinez
     Samuel Hilfer
 
 # Going Retro
 This repository holds a "[Space Invaders](https://www.youtube.com/watch?v=4KuLslq2UvA)" game clone that some teammates and I built using an Arduino UNO system. Between figuring out how to set up our hardware, how we wanted to build our game "cabinet", and actually writing the code, we spent approximately 30 hours over the course of 5 days creating this project. The code is completely our own design (which is obvious if you look at how inefficient it is), and took about 13-15 hours to write alone. We had a lot of fun creating this project for our University class, and we hope that it can help people who want to design something similar create an even better version of our project in the future. A rough video of our final product being tested can be found below:
 
-![Uploading GI Gif.gif…]()
+
+![GI Gif](https://user-images.githubusercontent.com/63205868/232172141-b16deb92-c489-4f09-a4f0-5dff5850f51b.gif)
+
 
 ### Important Things to Note
 The LED "sheet" we used for the project (which can be found in the materials section but is also [linked here](https://www.amazon.com/dp/B075T9RRPM/ref=syn_sd_onsite_mobileweb_40?ie=UTF8&pd_rd_plhdr=t&th=1)) was essentially a strip of lights soldered to look like a sheet. This was probably the most tedious aspect of the project, and it resulted in our code being approx. 800 lines longer than it needed to be due to the various calculations that had to be done for the shooting and win functions.
