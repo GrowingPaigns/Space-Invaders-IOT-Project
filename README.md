@@ -4,7 +4,7 @@
     Alexander Martinez
     Samuel Hilfer
 
-# Going Retro
+# Going Retro - Galactic Intruders
 This repository holds a "[Space Invaders](https://www.youtube.com/watch?v=4KuLslq2UvA)" game clone that some teammates and I built using an Arduino UNO system. Between figuring out how to set up our hardware, how we wanted to build our game "cabinet", and actually writing the code, we spent approximately 30 hours over the course of 5 days creating this project. The code is completely our own design (which is obvious if you look at how inefficient it is), and took about 13-15 hours to write alone. We had a lot of fun creating this project for our University class, and we hope that it can help people who want to design something similar create an even better version of our project in the future. A rough video of our final product being tested can be found below:
 
 
